@@ -1,5 +1,5 @@
-### Welcome to my GitHub!
-I'm currently an undergraduate at Central South University, majoring in Management Infomation System. The following 3 projects show my experiences and abilities about data science and management infomation system:
+### Welcome to my GitHub! 
+I'm currently an undergraduate at Central South University, majoring in Infomation Management and Infomation System. The following 3 projects show my experiences and abilities about data science and management infomation system:
 
 **[ThePeoplesDailyLDA](https://github.com/JosephineEA/ThePeoplesDailyLDA)** is a natual language processing project that crawled news on the People's Daily for one year and used LDA model to analy their topics.
 
